@@ -1,2 +1,4 @@
 # Vision_Transformer
-Implementation of U-Net model architecture based on the original paper:  Ronneberger, et al. "U-Net: Convolutional Networks for Biomedical Image Segmentation". 2015.
+Implementation of Vision Transformer (ViT) model architecture based on the original paper:  
+
+[Dosovitskiy, et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale". 2020.](https://arxiv.org/abs/2010.11929)
